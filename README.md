@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="styles.css">
+
 # QWO - DOCUMENTATION
 
 ## LAYOUT KEYS
@@ -46,3 +47,8 @@
 - **right arrow**: `§p§4§1`
 - **faq**: `§p§4§2`
 - **warn**: `§p§4§3`
+
+---
+Creator: [@Nperma](https;//github.com/nperma)
+StarlibV2: https://pipangry.github.io/docs-starlib/
+[Download](https://github.com/nperma/Qwo-UI/releases/tag/v1.0.0)
