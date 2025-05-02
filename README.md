@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-# QWO - DOCUMENTATION
-
-> **Note**: The background style and divider appearance depend on `styles.css`. This file contains custom fonts and visual styling.
+<h1 align="center">QWO - DOCUMENTATION</h1>
 
 ---
 
