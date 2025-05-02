@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "MinecraftSeven";
+    src: url("fonts/Seven.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MinecraftTen";
+    src: url("fonts/Ten.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "MinecraftTen", "MinecraftTen";
+    margin-top: 2px;
+    padding: 0;
+}
+
+h2 {
+  font-family: "MinecraftTen", "MinecraftTen";
+    margin-top: 2px;
+    padding: 0;
+}
+
+h3 {
+  font-family: "MinecraftSeven", "MinecraftSeven";
+    margin-top: 2px;
+    padding: 0;
+}
+
+label {
+  font-family: "MinecraftSeven", "MinecraftSeven";
+}
