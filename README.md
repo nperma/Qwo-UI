@@ -2,6 +2,10 @@
 
 # QWO - DOCUMENTATION
 
+> **Note**: The background style and divider appearance depend on `styles.css`. This file contains custom fonts and visual styling.
+
+---
+
 ## LAYOUT KEYS
 
 ### General
@@ -20,8 +24,8 @@
 
 ### Modified Disabled Label
 - **default**: `minecraftSeven`
-  - `§t§0§1`: `MinecraftTen`
-  - `§t§0§2`: `MinecraftTen`
+  - `§t§0§1`: MinecraftTen  
+  - `§t§0§2`: MinecraftTen
 
 ---
 
@@ -49,6 +53,9 @@
 - **warn**: `§p§4§3`
 
 ---
-Creator: [@Nperma](https;//github.com/nperma)
-StarlibV2: https://pipangry.github.io/docs-starlib/
-[Download](https://github.com/nperma/Qwo-UI/releases/tag/v1.0.0)
+
+### Resources
+- **Creator**: [@Nperma](https://github.com/nperma)  
+- **StarlibV2**: [pipangry.github.io/docs-starlib](https://pipangry.github.io/docs-starlib/)  
+- **[Download v1.0.0](https://github.com/nperma/Qwo-UI/releases/tag/v1.0.0)**
+
