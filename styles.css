@@ -1,35 +1,59 @@
 @font-face {
-    font-family: "MinecraftSeven";
-    src: url("fonts/Seven.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
+  font-family: "MinecraftSeven";
+  src: url("fonts/Seven.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: "MinecraftTen";
-    src: url("fonts/Ten.otf") format("opentype");
-    font-weight: bold;
-    font-style: normal;
+  font-family: "MinecraftTen";
+  src: url("fonts/Ten.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
 }
 
-h1 {
-    font-family: "MinecraftTen", "MinecraftTen";
-    margin-top: 2px;
-    padding: 0;
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  font-family: "MinecraftSeven", sans-serif;
+  padding: 20px;
 }
 
-h2 {
-  font-family: "MinecraftTen", "MinecraftTen";
-    margin-top: 2px;
-    padding: 0;
+h1, h2 {
+  font-family: "MinecraftTen", sans-serif;
+  margin-top: 2px;
+  padding: 0;
 }
 
 h3 {
-  font-family: "MinecraftSeven", "MinecraftSeven";
-    margin-top: 2px;
-    padding: 0;
+  font-family: "MinecraftSeven", sans-serif;
+  margin-top: 2px;
+  padding: 0;
 }
 
 label {
-  font-family: "MinecraftSeven", "MinecraftSeven";
+  font-family: "MinecraftSeven", sans-serif;
+}
+
+code {
+  background-color: #2a2a2a;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+a {
+  color: #4ea1ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr, .divider {
+  border: none;
+  height: 1px;
+  background-image: linear-gradient(to right, #444 0%, #888 50%, #444 100%);
+  margin: 20px 0;
 }
