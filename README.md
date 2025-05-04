@@ -59,5 +59,5 @@
 ### Resources
 - **Creator**: [@Nperma](https://github.com/nperma)  
 - **StarlibV2**: [pipangry.github.io/docs-starlib](https://pipangry.github.io/docs-starlib/)  
-- **[Download v1.0.0](https://github.com/nperma/Qwo-UI/releases/tag/v1.0.0)**
+- **[Download v1.0.2](https://github.com/nperma/Qwo-UI/releases/tag/v1.0.2)**
 
