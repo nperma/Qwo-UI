@@ -21,13 +21,14 @@
 - **default**: `pressed-texture`
   - **default**: `§d§0§1`
   - **paperdoll**: `§d§0§2`
+  - **disable_texture_2**: `§d§0§3` (only available in clean edition)
 
 ---
 
 ### Modified Disabled Label
 - **default**: `minecraftSeven`
-  - `§t§0§1`: MinecraftTen  
-  - `§t§0§2`: MinecraftTen
+  - MinecraftTen: `§t§0§1`  
+  - MinecraftTen + y^ offset: `§t§0§2`
 
 ---
 
@@ -53,6 +54,12 @@
 - **right arrow**: `§p§4§1`
 - **faq**: `§p§4§2`
 - **warn**: `§p§4§3`
+
+---
+
+### Form Title
+- **default**: `MinecraftSevenFont`
+- **MinecraftTenFont**: `§t§t§1`
 
 ---
 
